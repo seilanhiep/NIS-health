@@ -1,4 +1,22 @@
-.Rproj.user
+# History files
 .Rhistory
+.Rapp.history
+
+# Session data
 .RData
-.Ruserdata
+
+# User-specific files
+.Rproj.user/
+.Rproj
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Cache or output
+__pycache__/
+*.log
+*.aux
+*.out
+*.pdf
+outputs/
